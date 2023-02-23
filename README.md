@@ -39,6 +39,17 @@
 <a name="5"><h2>Примечание</h2></a>
 Для сборки проекта в Intellij Idea нужно указать в качестве конфигруации Apache Tomcat.
 
+Схема БД
+```SQL
+TABLE cars
+(
+    id int PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+    color varchar(20),
+    horsepower int,
+    quantity int
+);
+```
+
 
 
 
