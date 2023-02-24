@@ -34,7 +34,7 @@
  - Flyway.
 
 <a name="4"><h2>Видеодемонстрация работы</h2></a>
-[Видео](https://www.youtube.com/watch?v=rYuo6ue12jU)
+[Видео](https://www.youtube.com/watch?v=2fKaklwAaBo)
 <a name="5"><h2>Примечание</h2></a>
 Для сборки проекта в Intellij Idea нужно указать в качестве конфигурации Apache Tomcat.
 
