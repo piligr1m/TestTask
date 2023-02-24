@@ -20,12 +20,13 @@
  - [x] Standalone;
  - [x] Headless;
  - [x] Приложение основано на Spring(Boot) Framework;
+ - [x] PostgreSQL;
  - [x] Для версионирования схемы базы данных используется Flyway;
  - [x] База данных поднимается рядом с приложением в докер-контейнере.
 
 <a name="3"><h2>Используемые технологии</h2></a>
  - Intellij Idea Ultimate;
- - Postgresql;
+ - PostgreSQL;
  - Apache Tomcat;
  - Docker;
  - Spring;
