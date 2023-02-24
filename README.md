@@ -37,7 +37,7 @@
 <a name="4"><h2>Демонстрация работы</h2></a>
 [Видео](https://www.youtube.com/watch?v=rYuo6ue12jU)
 <a name="5"><h2>Примечание</h2></a>
-Для сборки проекта в Intellij Idea нужно указать в качестве конфигруации Apache Tomcat.
+Для сборки проекта в Intellij Idea нужно указать в качестве конфигурации Apache Tomcat.
 
 Схема БД
 ```SQL
@@ -49,6 +49,11 @@ TABLE cars
     quantity int
 );
 ```
+В задании в разделе `Примеры запросов` во втором примере запросе
+```HTTP
+/api/cars?color=black&operation=lessThan?horsepower=200
+```
+ошибка после `lessThan` должен стоять `&`, а не `?`.
 
 
 
