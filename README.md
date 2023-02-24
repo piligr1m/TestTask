@@ -47,7 +47,7 @@ TABLE cars
     quantity int
 );
 ```
-В задании в разделе `Примеры запросов` во втором примере запросе
+В задании в разделе `Примеры запросов` во втором примере запроса
 ```HTTP
 /api/cars?color=black&operation=lessThan?horsepower=200
 ```
